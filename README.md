@@ -58,7 +58,7 @@
     - 🤝 I’m looking for help with **Web Scraper**<br>
     - 👨‍💻 All of my projects are available at [https://github.com/abubhoraira]<br>
     - 💬 Ask me about **Web Scraping and web automation**<br>
-    - 📫 How to reach me **rehan**<br>
+    - 📫 How to reach me **abuhorairadev@gmail.com**<br>
     - 📄 Know about my experiences Fiverr & Upwork<br>
     - ⚡ Fun fact **I can create an automation bot and script for you.**<br>
 </p>
